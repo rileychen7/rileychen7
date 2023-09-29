@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riley Chen
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Riley Chen
 ==================================================================================================================================
 
-Aspiring Software Engineer | Computer Science Student at the University at Buffalo |
+Aspiring Software Engineer | Computer Science Student at the University at Buffalo | 
 --------------------------------------------------------------------------------
 
 Got into computer science because 5 hours of screen time just wasn’t enough
