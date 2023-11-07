@@ -4,7 +4,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Aspiring Software Engineer | Computer Science Student at the University at Buffalo | 
 --------------------------------------------------------------------------------
 
-Got into computer science because 5 hours of screen time just wasn’t enough
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rchen92@buffalo.edu](mailto:rchen92@buffalo.edu )
