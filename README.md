@@ -8,7 +8,7 @@ Got into computer science because 5 hours of screen time just wasn’t enough
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rchen92@buffalo.edu](mailto:rchen92@buffalo.edu )
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and CSS
 
 ### Skills
 
