@@ -1,13 +1,13 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Riley Chen
 ==================================================================================================================================
 
-Aspiring Software Engineer | Computer Science Student at the University at Buffalo | 
+Aspiring Actuary | Mathematics Student at the University at Buffalo | 
 --------------------------------------------------------------------------------
 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rchen92@buffalo.edu](mailto:rchen92@buffalo.edu )
-* 🧠  I'm learning Python and CSS
+* 🧠  I'm learning studying for exam P
 
 ### Skills
 
