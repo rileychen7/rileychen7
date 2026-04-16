@@ -3,8 +3,10 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 **Aspiring Actuary · B.S. Mathematics @ University at Buffalo (May 2027) · Minor in Statistics**
 
-I'm interested in actuarial science, quantitative risk modeling, and using data to solve real-world problems. Currently building projects at the intersection of statistics, simulation, and finance.
+I'm interested in actuarial science, quantitative risk modeling, and using data to solve real-world problems. Currently building a stock market volatility and risk modeling project using Python and Tableau to analyze historical equity prices and visualize market behavior.
 
+- 🎓 Studying Financial Mathematics, Statistical Inference, and Probability
+- 📊 Exploring Monte Carlo methods, survival models, and market risk
 - 📍 Based in Buffalo, NY
 - 📬 Reach me at [rchen92@buffalo.edu](mailto:rchen92@buffalo.edu)
 - 🌐 [Portfolio](https://rileychen.streamlit.app/)
