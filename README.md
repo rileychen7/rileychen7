@@ -7,7 +7,6 @@ Aspiring Actuary | Mathematics Student at the University at Buffalo |
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rchen92@buffalo.edu](mailto:rchen92@buffalo.edu )
-* 🧠  I'm learning studying for exam P
 
 ### Skills
 
